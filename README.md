@@ -2,6 +2,12 @@
 
 Welcome to Connectron, a very over the top Connect 4 game!
 
+## Install
+
+1. Download [Connectron.zip](Connectron.zip)
+2. Unzip it
+3. Run Connectron.exe
+
 ## Setting up
 
 Grid Size:
