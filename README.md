@@ -10,17 +10,11 @@ Welcome to Connectron, a very over the top Connect 4 game!
 
 ## Setting up
 
-Grid Size:
-
--   The number of spaces on the board, X by Y, ranging from 3x3 to 100x100.
-    Number of players:
--   The number of people playing the game, from 0 to 10.
-    Length of winning line:
--   The number of counters you must get in a row to win, from 4 to the largest dimension of the grid.
-    Number of rounds:
--   The number of Connectron games you wish to play continuously.
-    Players section:
--   CPU checkbox: When ticked, a computer will take the turn of this player.
+-   Grid Size: The number of spaces on the board, X by Y, ranging from 3x3 to 100x100.
+-   Number of players: The number of people playing the game, from 0 to 10.
+-   Length of winning line: The number of counters you must get in a row to win, from 4 to the largest dimension of the grid.
+-   Number of rounds: The number of Connectron games you wish to play continuously.
+-   Players section: CPU checkbox: When ticked, a computer will take the turn of this player.
 -   Colour label: Shows the colour of each player's counters. Click it to change the colour for this player.
 -   Players textbox: Enter the player's name here.
 
